@@ -1,0 +1,24 @@
+{
+  "name": "front-end-tools",
+  "version": "0.0.1",
+  "homepage": "https://github.com/runrobrun/front-end-tools",
+  "authors": [
+    "Rob Hammann <runrobrun@gmail.com>"
+  ],
+  "description": "A fun front end test",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.4.7"
+  }
+}
