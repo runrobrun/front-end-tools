@@ -1,0 +1,22 @@
+{
+  "name": "front-end-tools",
+  "version": "1.0.0",
+  "description": "front-end-tools =============== 1. This is a simple set up for a talk on front-end tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/runrobrun/front-end-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runrobrun/front-end-tools/issues"
+  },
+  "homepage": "https://github.com/runrobrun/front-end-tools",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
